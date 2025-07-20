@@ -1,3 +1,11 @@
+# CLOUD COMPUTING
+# Name - Prachi Gupta
+# Intern ID - CT08DL489
+# Domain - cloud computing 
+# Duration- 8 weeks 
+# Mentor - Neela Santosh
+# Task 2 – configure AWS CloudWatch to monitor an EC2 instance’s CPU utilization and send an alert via Amazon SNS (CodTech Internship)
+#  
 # CODTECH Internship - Task 2
 
 ##  Task Name: Cloud Monitoring and Alerts (AWS CloudWatch)
