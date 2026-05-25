@@ -7,7 +7,7 @@
 # Task 2 – configure AWS CloudWatch to monitor an EC2 instance’s CPU utilization and send an alert via Amazon SNS (CodTech Internship)
 
 ## Task Overview
-This project was completed as part of the **CODTECH Cloud Computing Internship**.  
+This task was completed as part of the **CODTECH Cloud Computing Internship**.  
 The objective was to implement cloud monitoring alerts and automated notification mechanisms using AWS services to improve system reliability and proactively detect issues.
 
 ## Technologies and Services Used
