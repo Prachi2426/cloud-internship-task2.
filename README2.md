@@ -61,14 +61,6 @@ Reviewed the configuration and successfully created the alarm.
 
 ---
 
-##  Screenshots
-
-Below are the screenshots of my Task 2 setup:
-- Metric and threshold configuration
-- SNS Topic setup and subscription
-- Alarm details and state
-- Successful alarm creation
-
 _All images are included in this repository._
 
 ---
